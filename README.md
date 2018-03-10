@@ -1,5 +1,3 @@
-# 
-
 # About This
 
 Golang Echo で作成したWebアプリケーションをElastic Beanstalkで実行するサンプル。
